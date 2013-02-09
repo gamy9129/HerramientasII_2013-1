@@ -1,1 +1,2 @@
 Todos deben colocar un archivo de texto en este repositorio.
+Esto debe hacerse en clase.
